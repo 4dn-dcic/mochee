@@ -1,0 +1,9 @@
+#shape : upper triangle
+#sorted : chr1-chr2-pos1-pos2
+#chromosomes : chr1 chr2
+#genome_assembly : hg19
+#columns : readID chr1 position1 chr2 position2 strand1 strand2 mismatch
+#creator : haha
+.	chr1	1000	chr2	3000	.	.	chr1:1070:A>T
+.	chr2	5000	chr2	4000	-	+	chr2:4916:G>C, chr2:5106:C>T
+.	chr1	1000	chr2	3000	.	.
